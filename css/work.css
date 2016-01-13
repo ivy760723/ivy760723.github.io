@@ -1,0 +1,17 @@
+.index_p {
+    font-size: 14px;
+    color: blue;
+}
+
+table {
+    background-color: skyblue;
+}
+
+th {
+    background-color: blue;
+}
+
+.colspan {
+    background-color: white;
+    text-align: center;
+}
