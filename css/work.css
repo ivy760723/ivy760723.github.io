@@ -1,3 +1,9 @@
+#index_body {
+    background-image: url("../img/index背景.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 .index_p {
     font-size: 14px;
     color: gray;
