@@ -1,0 +1,24 @@
+.top {
+    background-color: #EEEEEE;
+    padding: 35px;
+}
+
+.lorem1,
+.lorem2,
+.lorem3,
+.lorem4,
+.lorem5,
+.lorem6 {
+    border: solid 1px black;
+    text-align: center;
+    padding: 5px;
+    margin: 35px;
+}
+
+* {
+    box-sizing: borderbox;
+}
+
+.content-row {
+    padding: 35px;
+}
