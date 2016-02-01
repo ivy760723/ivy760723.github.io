@@ -1,0 +1,14 @@
+ul li {
+    float: left;
+    display: block;
+    width: 150px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 14pt;
+    color: white;
+    text-decoration: none;
+}
+
+ul li:hover {
+    color: yellow;
+}
