@@ -12,3 +12,7 @@ ul li {
 ul li:hover {
     color: yellow;
 }
+
+.intro-text {
+    background-image: url(../img/header-bg.jpg);
+}
